@@ -1,5 +1,4 @@
 var dadosLista = [];
-var i = [];
 function salvarUser() {
 
     let nomeDoUser = document.getElementById("nomeUser").value;
